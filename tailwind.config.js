@@ -17,8 +17,8 @@ module.exports = {
 
       black: '#000',
       white: '#fff',
-      primary:'#142850',
-      secondary:'#27496d',
+      primary:'#27496d',
+      secondary:'#00909e',
       terciary:'#00909e',
       last:'#dae1e7',
       gray: {
